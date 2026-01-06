@@ -2,7 +2,7 @@
 Repo for my DS apprenticeship module Software Engineering test upload
 
 ## The app
-[](https://jh3345a-work.github.io/DS_Software_Engineering/)
+[Here](https://jh3345a-work.github.io/DS_Software_Engineering/) is the app link.
 
 ## Design
 
