@@ -1,0 +1,31 @@
+body {
+    background-color: #4B3050;
+}
+
+
+.box {
+    position: absolute;
+    width: 600px;
+    height: 171px;
+    left: 564px;
+    top: 254px;
+
+    background: #F9E3FF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+
+.box-text {
+    position: absolute;
+    width: 316px;
+    height: 75px;
+    left: 751px;
+    top: 273px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 75px;
+}
